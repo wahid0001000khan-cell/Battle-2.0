@@ -1,0 +1,6 @@
+{
+  "name": "Battle 2.0",
+  "description": "Elite Tournaments App for Free Fire players with real-time registrations, leaderboards, local deposit/withdrawal UPI systems, and detailed stats tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
